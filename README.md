@@ -1,2 +1,124 @@
 # mega65-code-snippets
 Meta-Repositories with pointers to example code snippets and source code for all things MEGA65
+
+## How To contribute
+
+To contribute to this repository please follow the following instructions:
+
+Add your code snippet, or project to github, gist or other open source repository,
+Open an Issue in [issues](/../../issues)
+Add a link to the repo, as well as a suggested section from below you feel it should be part of
+
+Also, if people have suggestions about ordering, or layout in the following lists, please make an issue, or fork and comment about your changes in a pull request.
+
+## Setting up an environment
+
+### ASM
+There are several assemblers that will work natively with the mega 65
+
+| Link | Description |
+|------|-------------|
+| https://github.com/Edilbert/BSA | BSA The Bit Shift Assembler for the 6502 / 65C02 / 45GS02 CPU |
+
+### Basic (7, 10, 65)
+There are also basic IDE's that work with the mega
+
+| Link | Description |
+|------|-------------|
+|  https://files.mega65.org?id=8b189d0b-ea1e-45a7-a4de-87bcb0b11696 | Eleven, which runs directly on the mega |
+
+### ASM and BASIC
+
+| Link | Description |
+|------|-------------|
+| https://github.com/GeorgRottensteiner/C64Studio | A IDE, currently mostly tailored to C64 development, also has Mega65 assembly support (in ACME syntax), BASIC 10 "compiler" and various other assembler dialects |
+
+
+## Toolchains
+
+### Mega team
+
+| Link | Description |
+|------|-------------|
+| https://github.com/mega65/mega65-tools | Mega65 toolset including m65, mega65-ftp etc|
+| https://github.com/MEGA65/m65connect| GUI tool for running many of the above tools |
+
+### 3rd party
+
+| Link | Description |
+|------|-------------|
+| https://github.com/gurcei/m65dbg | m65dbg a debug tool using the serial coms of the mega65 |
+| https://github.com/smnjameson/Mega65Toolkit | Mega65Toolkit, a collection similar to this by user smnjameson |
+| https://github.com/paulscottrobson/mega65-basic | mega65-basic BASIC interpreter for the Mega 65 Computer |
+| https://github.com/SvOlli/mega65-sdk | MEGA65-SDK This SDK is just a repository including all compontents provided from external repositories. |
+| https://github.com/SvOlli/c65-firmware | C65 Firmware Build Kit this is a repository intended for developing the kernal of a C65/MEGA65 system. |
+
+
+## Collection of code snippets and projects
+
+### From The Manual
+
+| Link | Description |
+|------|-------------|
+
+### Simple Snippets
+
+| Link | Description |
+|------|-------------|
+
+### Examples, and example repos
+
+| Link | Description |
+|------|-------------|
+| https://github.com/mteufel/m65-examples | Examples repo from user mteufel |
+| https://github.com/smnjameson/m65_example_code | Examples repo from user smnjameson |
+
+
+### Projects and complete games
+| Link | Description |
+|------|-------------|
+| https://github.com/mega65/mega65-weeIP | TCP/IP stack for MEGA65
+| https://github.com/gardners/raycaster | Wolfenstein-style 3D engine port (autorun on dev kits) |
+| https://github.com/gurcei/megafighter | megafighter an attempt to create an open-source fighter game for the MEGA65 |
+| https://github.com/Edilbert/BSZ | Bit Shifter's Z Interpreter |
+| https://github.com/GeorgRottensteiner/HitBlock-Mega65 | A small game, initially created for Shallan's compo |
+| https://github.com/mteufel/just-pixel | just-pixel a pixler for the MEGA65 by Marc Teufel inspired by Zoomatic (Panoramic Designs) |
+| https://github.com/M3wP/Manche | Manche 0.14A Beta a front-end for the Peppito MOD player |
+| https://github.com/M3wP/M3wPSolitaire | M3wP Solitaire! (mouse support) |
+| https://github.com/steph72/dragonrock-mega65 | dragonrock-mega65 a role playing game for the MEGA65 |
+| https://github.com/steph72/m65wator | m65wator a population dynamics simulation for the MEGA65 |
+| https://github.com/steph72/megarogue | megarogue beginnings of a roguelike game engine for the mega65 |
+| https://github.com/steph72/mega65puyo | |
+
+
+
+
+
+## Alternative cores for mega
+
+### Mister
+(thanks [sy2002](https://github.com/sy2002))
+| Link | Description |
+|------|-------------|
+| https://github.com/sy2002/zxuno4mega65 | Zuno core |
+| https://github.com/sy2002/gbc4mega65 | GB/GBC core |
+| https://github.com/sy2002/QNICE-FPGA | 16 bit SOC support core for mister cores |
+| https://github.com/sy2002/MiSTer2MEGA65 | Framework to support porting mister cores (WIP) |
+
+
+## Users referenced in above links
+
+* https://github.com/mega65
+* https://github.com/gardners
+* https://github.com/sy2002
+* https://github.com/gurcei
+* https://github.com/Edilbert
+* https://github.com/GeorgRottensteiner
+* https://github.com/mteufel
+* https://github.com/M3wP
+* https://github.com/smnjameson
+* https://github.com/steph72
+* https://github.com/paulscottrobson
+* https://github.com/SvOlli
+
+Also thanks to [L3114](https://github.com/L3114) for much of the initial list
