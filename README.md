@@ -53,6 +53,7 @@ There are also basic IDE's that work with the mega
 | https://github.com/SvOlli/mega65-sdk | MEGA65-SDK This SDK is just a repository including all compontents provided from external repositories. |
 | https://github.com/SvOlli/c65-firmware | C65 Firmware Build Kit this is a repository intended for developing the kernal of a C65/MEGA65 system. |
 | https://github.com/JettMonstersGoBoom/Millfork_Mega65 | Repo for MEGA65 & Millfork & Shallan's compo base |
+|https://github.com/M3wP/MEGA65-Freezer|M65 Freezer version 2|
 
 
 ## Collection of code snippets and projects
