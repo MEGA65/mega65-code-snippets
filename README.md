@@ -32,6 +32,7 @@ There are also basic IDE's that work with the mega
 | Link | Description |
 |------|-------------|
 | https://github.com/GeorgRottensteiner/C64Studio | A IDE, currently mostly tailored to C64 development, also has Mega65 assembly support (in ACME syntax), BASIC 10 "compiler" and various other assembler dialects |
+| https://github.com/smnjameson/S65 | Shallan65 kick assembler macro toolkit for MEGA65 |
 
 
 ## Toolchains
@@ -53,7 +54,8 @@ There are also basic IDE's that work with the mega
 | https://github.com/SvOlli/mega65-sdk | MEGA65-SDK This SDK is just a repository including all compontents provided from external repositories. |
 | https://github.com/SvOlli/c65-firmware | C65 Firmware Build Kit this is a repository intended for developing the kernal of a C65/MEGA65 system. |
 | https://github.com/JettMonstersGoBoom/Millfork_Mega65 | Repo for MEGA65 & Millfork & Shallan's compo base |
-|https://github.com/M3wP/MEGA65-Freezer|M65 Freezer version 2|
+| https://github.com/M3wP/MEGA65-Freezer|M65 Freezer version 2|
+| https://github.com/JettMonstersGoBoom/Mega65 | A converter for NCM mode among other things |
 
 
 ## Collection of code snippets and projects
@@ -74,8 +76,14 @@ There are also basic IDE's that work with the mega
 |------|-------------|
 | https://github.com/mteufel/m65-examples | Examples repo from user mteufel |
 | https://github.com/smnjameson/m65_example_code | Examples repo from user smnjameson |
+| https://files.mega65.org?id=4601f9a5-6f59-487d-9baf-fd4b73cb4ae1 | B10SEX: Demo how to use super-extended character mode from BASIC10/65: |
 
 
+
+### Tutorials
+| Link | Description |
+|------|-------------|
+| https://github.com/RetroCogs/Mega65Tutorials | Repo for various tutorials for coding in 45gs02 on the MEGA65 |
 
 ### Projects and complete games
 | Link | Description |
@@ -125,5 +133,6 @@ There are also basic IDE's that work with the mega
 * https://github.com/paulscottrobson
 * https://github.com/SvOlli
 * https://github.com/JettMonstersGoBoom
+* https://github.com/RetroCogs
 
 Also thanks to [L3114](https://github.com/L3114) for much of the initial list
