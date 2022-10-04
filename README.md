@@ -53,6 +53,8 @@ There are also basic IDE's that work with the mega
 | https://github.com/paulscottrobson/mega65-basic | mega65-basic BASIC interpreter for the Mega 65 Computer |
 | https://github.com/SvOlli/mega65-sdk | MEGA65-SDK This SDK is just a repository including all compontents provided from external repositories. |
 | https://github.com/SvOlli/c65-firmware | C65 Firmware Build Kit this is a repository intended for developing the kernal of a C65/MEGA65 system. |
+| https://github.com/JettMonstersGoBoom/Millfork_Mega65 | Repo for MEGA65 & Millfork & Shallan's compo base |
+| https://github.com/M3wP/MEGA65-Freezer|M65 Freezer version 2|
 | https://github.com/JettMonstersGoBoom/Mega65 | A converter for NCM mode among other things |
 
 
@@ -99,7 +101,7 @@ There are also basic IDE's that work with the mega
 | https://github.com/steph72/megarogue | megarogue beginnings of a roguelike game engine for the mega65 |
 | https://github.com/steph72/mega65puyo | |
 | https://files.mega65.org?id=d3444cc2-4fbf-441f-ae98-50d8c5da9afe | RASTER65 a small raster intro with dual SID music. Comes with source code and outdated toolchain. |
-
+| https://github.com/JettMonstersGoBoom/Mega65 | Tilemizer python script to convert images to tile,color,and map data|
 
 
 
@@ -130,6 +132,7 @@ There are also basic IDE's that work with the mega
 * https://github.com/steph72
 * https://github.com/paulscottrobson
 * https://github.com/SvOlli
+* https://github.com/JettMonstersGoBoom
 * https://github.com/RetroCogs
 
 Also thanks to [L3114](https://github.com/L3114) for much of the initial list
