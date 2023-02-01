@@ -77,6 +77,7 @@ There are also basic IDE's that work with the mega
 | https://github.com/mteufel/m65-examples | Examples repo from user mteufel |
 | https://github.com/smnjameson/m65_example_code | Examples repo from user smnjameson |
 | https://files.mega65.org?id=4601f9a5-6f59-487d-9baf-fd4b73cb4ae1 | B10SEX: Demo how to use super-extended character mode from BASIC10/65: |
+| https://github.com/CptnRoughnight/SmoothScrolling | MEGA65 TRSE NCM SmoothScrolling, video: https://streamable.com/7zqa6k |
 
 
 
